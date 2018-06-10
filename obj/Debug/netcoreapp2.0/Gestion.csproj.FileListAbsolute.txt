@@ -1,0 +1,13 @@
+/Users/freddyrosa/Downloads/aspp/Gestion/bin/Debug/netcoreapp2.0/app.db
+/Users/freddyrosa/Downloads/aspp/Gestion/bin/Debug/netcoreapp2.0/Gestion.deps.json
+/Users/freddyrosa/Downloads/aspp/Gestion/bin/Debug/netcoreapp2.0/Gestion.runtimeconfig.json
+/Users/freddyrosa/Downloads/aspp/Gestion/bin/Debug/netcoreapp2.0/Gestion.runtimeconfig.dev.json
+/Users/freddyrosa/Downloads/aspp/Gestion/bin/Debug/netcoreapp2.0/Gestion.dll
+/Users/freddyrosa/Downloads/aspp/Gestion/bin/Debug/netcoreapp2.0/Gestion.pdb
+/Users/freddyrosa/Downloads/aspp/Gestion/obj/Debug/netcoreapp2.0/Gestion.csproj.CoreCompileInputs.cache
+/Users/freddyrosa/Downloads/aspp/Gestion/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/freddyrosa/Downloads/aspp/Gestion/obj/Debug/netcoreapp2.0/Gestion.AssemblyInfoInputs.cache
+/Users/freddyrosa/Downloads/aspp/Gestion/obj/Debug/netcoreapp2.0/Gestion.AssemblyInfo.cs
+/Users/freddyrosa/Downloads/aspp/Gestion/obj/Debug/netcoreapp2.0/Gestion.dll
+/Users/freddyrosa/Downloads/aspp/Gestion/obj/Debug/netcoreapp2.0/Gestion.pdb
+/Users/freddyrosa/Downloads/aspp/Gestion/obj/Debug/netcoreapp2.0/Gestion.csprojResolveAssemblyReference.cache

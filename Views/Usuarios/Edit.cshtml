@@ -1,0 +1,51 @@
+@model Gestion.Models.Usuarios
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Usuarios</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ID" />
+            <div class="form-group">
+                <label asp-for="NOMBRE" class="control-label"></label>
+                <input asp-for="NOMBRE" class="form-control" />
+                <span asp-validation-for="NOMBRE" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CEDULA" class="control-label"></label>
+                <input asp-for="CEDULA" class="form-control" />
+                <span asp-validation-for="CEDULA" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NO_CARNET" class="control-label"></label>
+                <input asp-for="NO_CARNET" class="form-control" />
+                <span asp-validation-for="NO_CARNET" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TIPO_USUARIO" class="control-label"></label>
+                <input asp-for="TIPO_USUARIO" class="form-control" />
+                <span asp-validation-for="TIPO_USUARIO" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ESTADO" class="control-label"></label>
+                <input asp-for="ESTADO" class="form-control" />
+                <span asp-validation-for="ESTADO" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
